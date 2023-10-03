@@ -36,7 +36,7 @@ export class AppComponent implements OnInit {
   }
 
   handleTotalSizeReached(): void {
-    console.log('Tamanho total de 1MB atingido. Chamando outro método.');
+    console.log('Tamanho total de 100MB atingido. Chamando outro método.');
   }
 
 
